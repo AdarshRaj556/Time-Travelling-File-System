@@ -1,0 +1,1 @@
+g++ long_assignment.cpp -o output
